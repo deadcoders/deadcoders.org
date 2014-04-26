@@ -51,7 +51,8 @@
     <section>
       <h2>Contact</h2>
       <p>
-        Twitter: <a href='http://twitter.com/deadcoders'>. IRC: Freenode, <code>#deadcoders</code>.
+        Twitter: <a href='http://twitter.com/deadcoders'><code>@deadcoders</code></a><br>
+        IRC: Freenode, <code>#deadcoders</code>
       </p>
     </section>
 
