@@ -11,6 +11,32 @@ code {
 	font-family: monospace;
 }
 
+i {
+	font-style: italic;
+}
+
+ol {
+	width: 475px;
+	margin: 0 auto;
+}
+
+ol li {
+	list-style: upper-roman;
+	list-style-position: inside;
+}
+
+dl {
+
+}
+
+dt {
+	font-style: italic;
+}
+
+dd {
+	margin-bottom: 12px;
+}
+
 #container {
 	padding-top: 25px;
 	width: 600px;
@@ -37,6 +63,7 @@ code {
 section {
 	text-align: center;
 	margin-top: 24px;
+	line-height: 1.4;
 }
 
 section h2 {
@@ -46,7 +73,7 @@ section h2 {
 }
 
 section p {
-	line-height: 1.4;
+	
 }
 
 section a {

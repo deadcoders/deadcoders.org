@@ -15,37 +15,46 @@
     <section>
       <h2>What?</h2>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        The Dead Coders Society is an informal, semi-regular meetup for anyone and everyone
+        interested in computer science.
       </p>
     </section>
 
     <section>
-      <h2>Where?</h2>
+      <h2>Format</h2>
+
+      <ol>
+        <li>Turn up at the pre-arranged venue</li>
+        <li>Chant the society motto <i>(optional step)</i></li>
+        <li>Order food &amp; drinks. Precondition: <code>|forks| &#8805; |people|</code></li>
+        <li>Whilst awaiting food, one person presents a topic or paper from any field of computing science
+        <li>Eat food and discuss said topic</li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>Where &amp; When?</h2>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Our inaugural meetup will be somewhere in Glasgow. The date is yet to be decided but whatever the
+        date we're aiming for a lunctime timeslot.
       </p>
     </section>
 
     <section>
-      <h2>When?</h2>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-      </p>
+      <h2>FAQs</h2>
+
+      <dl>
+        <dt>Must the topics discussed originate from literally dead programmers?</dt>
+        <dd>No, we're just future-proofing.</dd>
+
+        <dt>Why a lunchtime meet? Seems a bit tame - didn't the Dead Poets meet in a cave?</dt>
+        <dd>
+          We wanted to make the meetings accessible to as wide an audience as possible; a lunchtime
+          meetup is convenient for a) people with kids, b) anyone too young to go to a pub in the evening
+          and c) commuters. <i>That said,</i> if you have a suitable cave handy I'm sure we could organise
+          something.
+        </dd>
+      </dl>
     </section>
 
     <section>
