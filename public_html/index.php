@@ -54,6 +54,11 @@
           and c) commuters. <i>That said,</i> if you have a suitable cave handy I'm sure we could organise
           something.
         </dd>
+
+        <dt>How can I suggest a topic?</dt>
+        <dd>
+          Please the Github issue tracker on the <code>deadcoders/meetings</code> repository. You can find it <a href='https://github.com/deadcoders/meetings/issues'>here.</a>
+        </dd>
       </dl>
     </section>
 
