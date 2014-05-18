@@ -35,7 +35,8 @@
     <section>
       <h2>Where &amp; When?</h2>
       <p>
-        Our next meeting will take place at <b>1pm on Tuesday May 27th, at Adlib, Ingram Street, Glasgow</b>.
+        Our next meeting will take place at:<br>
+        <b>1pm on Tuesday May 27th, at Adlib, Ingram Street, Glasgow</b>.
       </p>
     </section>
 

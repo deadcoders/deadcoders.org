@@ -15,6 +15,10 @@ i {
 	font-style: italic;
 }
 
+b {
+	font-weight: bold;
+}
+
 ol {
 	width: 475px;
 	margin: 0 auto;
