@@ -35,8 +35,7 @@
     <section>
       <h2>Where &amp; When?</h2>
       <p>
-        Our inaugural meetup will be somewhere in Glasgow. The date is yet to be decided but whatever the
-        date we're aiming for a lunctime timeslot.
+        Our next meeting will take place at <b>1pm on Tuesday May 27th, at Adlib, Ingram Street, Glasgow</b>.
       </p>
     </section>
 
