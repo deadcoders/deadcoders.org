@@ -1,4 +1,7 @@
-<? require '_header.php' ?>
+<?php
+$TITLE = 'Previous Talks @ Dead Coders Society.';
+require '_header.php';
+?>
 
 <?php
 date_default_timezone_set('Europe/London');

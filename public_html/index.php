@@ -1,4 +1,7 @@
-<? require '_header.php' ?>
+<?php
+$TITLE = 'Dead Coders Society - a meetup in Glasgow for anyone who loves theoretical computer science.';
+require '_header.php';
+?>
 
 <div id='header'>
   <h1>Dead Coders Society</h1>
