@@ -4,14 +4,14 @@
 date_default_timezone_set('Europe/London');
 
 $TALKS = array(
-	array(
+  array(
     'number' => 1,
     'date' => mktime(0, 0, 0, 5, 27, 2014),
-		'name' => 'Alisdair McDiarmid',
-		'twitter' => 'alisdair',
-		'paper' => 'Principal type-schemes for functional programs (Damas, Milner 82)',
-		'slides' => 'https://speakerdeck.com/alisdair/deadcoders-number-1-damas-milner-82'
-	)
+    'name' => 'Alisdair McDiarmid',
+    'twitter' => 'alisdair',
+    'paper' => 'Principal type-schemes for functional programs (Damas, Milner 82)',
+    'slides' => 'https://speakerdeck.com/alisdair/deadcoders-number-1-damas-milner-82'
+  )
 );
 ?>
 
@@ -20,7 +20,7 @@ $TALKS = array(
 </div>
 
 <ul class='previous-talks'>
-	<? foreach ($TALKS as $talk) { ?>
+  <? foreach ($TALKS as $talk) { ?>
     <li>
       <time> <?= date('j F Y', $talk['date']) ?></time>
       <h3>#<?= $talk['number'] ?>: <?= $talk['paper'] ?></h3>
