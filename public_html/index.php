@@ -35,7 +35,7 @@ require '_header.php';
   <h2>Where &amp; When?</h2>
   <p>
     Our next meeting will take place at:<br>
-    <b>1pm on Tuesday June 24th, at Adlib, Ingram Street, Glasgow</b>.
+    <b>1pm on Tuesday June 24th, at Adlib, 33 Ingram Street, Glasgow, G1 1HA</b>
   </p>
 </section>
 
