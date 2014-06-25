@@ -8,6 +8,14 @@ date_default_timezone_set('Europe/London');
 
 $TALKS = array(
   array(
+    'number' => 2,
+    'date' => mktime(0, 0, 0, 6, 24, 2014),
+    'name' => 'Jakub Konka',
+    'twitter' => 'kubkon',
+    'paper' => 'The Ubiquitous B-Tree (Comer 1979)',
+    'slides' => null
+  ),
+  array(
     'number' => 1,
     'date' => mktime(0, 0, 0, 5, 27, 2014),
     'name' => 'Alisdair McDiarmid',
