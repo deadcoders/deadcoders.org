@@ -5,10 +5,17 @@ body {
 	color: #e0e0e0;
 	background: #1f1a17 url("jack.png") no-repeat center center;
 	background-attachment: fixed;
+	line-height: 1.4;
 }
 
 code {
 	font-family: monospace;
+}
+
+h2 {
+	font-size: 24px;
+	font-weight: bold;
+	margin: 0 0 8px 0;
 }
 
 a {
@@ -58,8 +65,33 @@ ol {
 
 #container {
 	padding-top: 25px;
+	width: 900px;
+	margin: 0 auto;
+}
+
+.col-left {
+	clear: left;
+	width: 400px;
+	float: left;
+}
+
+.col-right {
+	margin-left: 450px;
+}
+
+#gmap_canvas {
+	margin-bottom: 10px;
+}
+
+#bottom {
+	clear: left;
 	width: 600px;
 	margin: 0 auto;
+}
+
+#bottom section {
+	margin-top: 24px;
+	text-align: center;
 }
 
 #logo {
@@ -67,6 +99,10 @@ ol {
 	width: 172px;
 	height: 70px;
 	background: url("logo.png");
+}
+
+#header {
+	margin-bottom: 40px;
 }
 
 #header #logo {
@@ -79,13 +115,15 @@ ol {
 	text-align: center;
 }
 
-section {
+#header p {
 	text-align: center;
-	margin-top: 24px;
+}
+
+section {
 	line-height: 1.4;
 }
 
-section h2 {
+section h3 {
 	font-family: "Princess Sofia";
 	font-size: 24px;
 	margin-bottom: 8px;
